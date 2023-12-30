@@ -1,11 +1,11 @@
 # PROMPT Engineering: How to Guide an LLM to Optimal Output using Python
 
-This project draws inspiration from Andrew Ng and Isa Fulford's excellent course, "ChatGPT Prompt Engineering for Developers." The repository showcases the art of prompt engineering for OpenAI's GPT-3.5 Turbo, providing insights into effective communication with the language model for specific tasks using simple and clear prompts. 
+This project draws inspiration from [Andrew Ng and Isa Fulford's excellent course](https://www.example.com), "ChatGPT Prompt Engineering for Developers." The repository showcases the art of prompt engineering for [OpenAI's GPT-3.5 Turbo](https://platform.openai.com/docs/guides/prompt-engineering?ref=learninglab.dk), providing insights into effective communication with the language model for specific tasks using simple and clear prompts. 
 
 ## Prerequisite:
-- OpenAI API
-- VSCode or Jupyter notebook 
-- Python
+- [OpenAI API](https://www.openai.com/api/)
+- [VSCode or Jupyter notebook](https://code.visualstudio.com/)
+- [Python](https://www.python.org/)
 
 Here's a breakdown of the featured functionalities:
 
@@ -22,7 +22,7 @@ Here's a breakdown of the featured functionalities:
 
 This project benefited from the following sources:
 
-- [Deep Learning AI - Learn Prompting](https://www.deeplearning.ai/)
-- [OpenAI's Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering?ref=learninglab.dk)
+- [Deep Learning AI - Learn Prompting](https://www.deeplearning.ai/){:target="_blank"}
+- [OpenAI's Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering?ref=learninglab.dk){:target="_blank"}
 
 Enjoy exploring and optimizing your interactions with GPT-3.5 Turbo!
