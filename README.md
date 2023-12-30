@@ -1,6 +1,13 @@
-# PROMPT Engineering: How to Guide an LLM to Optimal Output
+# PROMPT Engineering: How to Guide an LLM to Optimal Output using Python
 
-This project draws inspiration from Andrew Ng and Isa Fulford's excellent course, "ChatGPT Prompt Engineering for Developers." The repository showcases the art of prompt engineering for OpenAI's GPT-3.5 Turbo, providing insights into effective communication with the language model for specific tasks using simple and clear prompts. Here's a breakdown of the featured functionalities:
+This project draws inspiration from Andrew Ng and Isa Fulford's excellent course, "ChatGPT Prompt Engineering for Developers." The repository showcases the art of prompt engineering for OpenAI's GPT-3.5 Turbo, providing insights into effective communication with the language model for specific tasks using simple and clear prompts. 
+
+## Prerequisite:
+- OpenAI API
+- VSCode or Jupyter notebook 
+- Python
+
+Here's a breakdown of the featured functionalities:
 
 1. **Summarization:** Craft precise prompts for clear and relevant summaries.
 2. **Creative Book Titles:** Generate imaginative book titles, authors, and genres in JSON format.
