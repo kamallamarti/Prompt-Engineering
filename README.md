@@ -22,7 +22,7 @@ Here's a breakdown of the featured functionalities:
 
 This project benefited from the following sources:
 
-- [Deep Learning AI - Learn Prompting](https://www.deeplearning.ai/){:target="_blank"}
+- <a href="https://www.deeplearning.ai/" target="_blank">Deep Learning AI - Learn Prompting</a>
 - [OpenAI's Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering?ref=learninglab.dk){:target="_blank"}
 
 Enjoy exploring and optimizing your interactions with GPT-3.5 Turbo!
