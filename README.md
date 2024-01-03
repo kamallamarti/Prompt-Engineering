@@ -25,4 +25,4 @@ This project benefited from the following sources:
 - [Deep Learning AI - Learn Prompting](https://www.deeplearning.ai/)
 - [OpenAI's Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering?ref=learninglab.dk)
 
-Enjoy exploring and optimizing your interactions with GPT-3.5 Turbo!
+Enjoy exploring and optimizing your interactions with GPT-3.5 Turbo!!
