@@ -15,7 +15,7 @@ Here's a breakdown of the featured functionalities:
 4. **Product Description Generation:** Create compelling product descriptions from technical fact sheets with optional HTML formatting.
 5. **Product Review Summary:** Extract shipping-related information from a product review.
 6. **Multilingual Translation:** Translate phrases to French, Spanish, and English pirate style.
-7. **Formal and Informal Translation:** Translate a sentence to French in both formal and informal styles.
+7. **Formal and Informal Translation:** Translate a sentence to French in both formal and informal styles. 
 8. **Slang to Business Letter Translation:** Transform casual language into a formal business letter.
 
 ## Sources
